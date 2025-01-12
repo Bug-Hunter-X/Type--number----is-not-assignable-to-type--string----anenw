@@ -1,0 +1,1 @@
+This TypeScript code demonstrates a common type error. The function `combine` is intended to concatenate two number arrays. However, if it's called with an array of strings, a type error will occur.  This example highlights the importance of type checking in TypeScript for preventing runtime errors.
